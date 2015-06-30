@@ -1,8 +1,8 @@
 /*
 ASSIGNMENT 3. QUESTION 3
 
-Name: Chiaka Princewill Samuel
-Reg. No: 47037451EG
+Name: Nyong, Precious Okon
+Reg. No: 45309357GG
 Department: Department Of Computer Science
 */
 #include <iostream>
